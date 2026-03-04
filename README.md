@@ -2,7 +2,7 @@
 
 **Data Engineer** with 3+ years of experience building scalable data pipelines and platforms.
 
-Currently working on large-scale data platform modernization across 200M+ record datasets. Previously built ELT pipelines in Python and PySpark at Citibank supporting analytics and ML workloads.
+Currently a Data Engineer at **Illinois Department of Healthcare and Family Services**, working on large-scale data platform modernization across 200M+ record datasets. Previously built ELT pipelines in Python and PySpark at **Citibank** supporting analytics and ML workloads.
 
 ### What I work with
 - **Languages:** Python, SQL, Java
