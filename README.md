@@ -6,7 +6,7 @@ Currently a Data Engineer at **Illinois Department of Healthcare and Family Serv
 
 ### What I work with
 - **Languages:** Python, SQL, Java
-- **Data Stack:** Snowflake, dbt, Apache Spark (PySpark), Hadoop
+- **Data Stack:** Snowflake, dbt, Apache Spark (PySpark), Oracle, Teradata, Hadoop
 - **Cloud & Tools:** AWS, Azure, Airflow, Docker, CI/CD, Power BI
 - **Focus Areas:** ELT Pipeline Development, Dimensional Modeling, Data Quality & Observability
 
